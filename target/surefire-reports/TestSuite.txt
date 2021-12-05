@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 456.192 s <<< FAILURE! - in TestSuite
+Practise2(Mavenfinal.TestPractisepage)  Time elapsed: 188.593 s  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	The link with textAppiumis broken with code403 expected [true] but found [false],
+	The link with textBroken Linkis broken with code404 expected [true] but found [false]
+	at Mavenfinal.TestPractisepage.Practise2(TestPractisepage.java:135)
+
